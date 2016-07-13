@@ -21,7 +21,7 @@ if(isset($_POST['submit']))
 
 					  else {
 					  	for($i=0;$i<16;$i++)
-/* why undefined var??		*/			  		{ $ran_str .= chr(mt_rand(32,126)); }
+  					  		{ $ran_str .= chr(mt_rand(32,126)); }
 					  	}
 
 					  $verify_url= "verify.php";
