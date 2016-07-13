@@ -1,8 +1,6 @@
 
  <?php
 
-// in this pg, the switch statement needs to be shifted smwhere else, bcoz if u try to login directly
- // w/o any reference then it simply redirects u to the index pg bcoz of the default case. 
 require("config.php");
 require("functions.php");
 
