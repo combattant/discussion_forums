@@ -1,0 +1,27 @@
+table { 
+	border: thin solid #cccccc; 
+	background: #ffffff;
+	 }
+th {
+	 letter-spacing: 2.5px; background: #eeeeeee; 
+	 color: #000000; 
+	 text-transform: uppercase;
+	 text-align: center;
+ 	 border-top: thick solid #eeeeee;
+ 	 border-bottom: thin solid #cccccc;
+ 	 }
+tr.head {
+		 letter-spacing: 1.5px;
+		 background: #dddddd; color: #000000; 
+		 text-transform: uppercase; 
+		 border-top: thick solid #eeeeee; 
+		 border-bottom: thin solid #cccccc;
+         }
+tr.body { 
+	background: #ffffff;
+	color: #000000; }
+td {
+	 border: thin solid #cccccc; 
+	 padding: 10px;
+	}
+
